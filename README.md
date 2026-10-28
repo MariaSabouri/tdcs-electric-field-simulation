@@ -29,7 +29,9 @@ Dataset source: [SimNIBS Documentation](https://simnibs.github.io/simnibs/build/
 
 ## Project Demonstration
 
-A video demonstrating the project and its results will be provided here.
+Watch the project presentation and simulation results:
+
+[View Project Demonstration](https://drive.google.com/file/d/1axEEz_jVldCJXlEh3Oa0Ql0ypeI79sCK/view?usp=drive_link)
 
 ## Reference
 
